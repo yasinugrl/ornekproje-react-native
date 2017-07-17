@@ -20,11 +20,9 @@ const styles = {
     height: 60,
     justifyContent: 'center',
     alignItems: 'center',
-    marginTop: 0,
-    shadowOffset: { widht: 0, height: 2 },
+    paddingTop: 15,
+    shadowOffset: { width: 0, height: 2 },
     shadowOpacity: 0.2,
-
-
   }
 
 };
